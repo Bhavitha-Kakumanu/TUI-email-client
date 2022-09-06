@@ -1,0 +1,8 @@
+Hi ${name}!
+
+I hope you are doing well. I just wanted to inform you that we are going to
+be celebrating my birthday on 13th April, 2019 and you are invited. Have a
+good day!
+
+Regards,
+Bhavitha :)
